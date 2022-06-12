@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #164e63;
+  color: #06b6d4;
 }
 .navbar .dropdown ul {
   display: block;
@@ -270,7 +270,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/ruang-kantor.png") top center;
   background-size: cover;
   position: relative;
 }
@@ -538,6 +538,11 @@ section {
   font-size: 14px;
   margin-bottom: 0;
 }
+
+.services .icon-box {
+  background-color: #f1f5f9;
+}
+
 .services .icon-box:hover {
   border-color: #fff;
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
@@ -1324,3 +1329,4 @@ section {
   background: #ffce3a;
   text-decoration: none;
 }
+
