@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #ffce3a;
+  color: #06b6d4;
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ffcb30;
+  background: #06b6d4;
   color: #fff;
 }
 
@@ -1176,7 +1176,7 @@ section {
 }
 
 .pricing .featured .btn-buy:hover {
-  background: #ffce3a;
+  background: #06b6d4;
 }
 
 .pricing .advanced {
@@ -1232,7 +1232,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #ffce3a;
+  color: #06b6d4;
 }
 
 .faq .faq-list .icon-show,
@@ -1384,7 +1384,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #ffce3a;
+  background: #06b6d4;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1533,7 +1533,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #ffce3a;
+  background: #06b6d4;
 }
 
 #footer .credits {
@@ -1557,7 +1557,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #ffce3a;
+  background: #06b6d4;
   text-decoration: none;
 }
 
