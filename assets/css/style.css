@@ -1582,3 +1582,9 @@ section {
 .row-list-anggota {
   background-color: #f3f3f3;
 }
+
+.send-message {
+  background-color: #06b6d4;
+  color: #fff;
+  border-radius: 30px;
+}
