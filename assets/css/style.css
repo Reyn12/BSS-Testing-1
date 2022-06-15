@@ -1572,3 +1572,13 @@ section {
 .S2-title {
   color: #06b6d4;
 }
+
+.garis-anggota {
+  background-color: #06b6d4;
+  height: 2px;
+  width: 97%;
+}
+
+.row-list-anggota {
+  background-color: #f3f3f3;
+}
