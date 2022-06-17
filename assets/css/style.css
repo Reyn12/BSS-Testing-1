@@ -1588,3 +1588,33 @@ section {
   color: #fff;
   border-radius: 30px;
 }
+
+.btn-form {
+  background-color: #06b6d4;
+}
+
+.modal-header {
+  background-color: #06b6d4;
+}
+
+.modal-body, .modal-footer {
+  background-color: #e5fbff;
+}
+
+.S {
+  color: #ff6c03;
+}
+
+.B, .S2 {
+  color: rgb(0, 65, 163);
+  margin: 0 0;
+}
+
+.S2 {
+  margin-right: 2px;
+}
+
+#exampleModal {
+  border-radius: 5px;
+  overflow: hidden;
+}
